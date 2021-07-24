@@ -1,4 +1,6 @@
 # covid-tracker
+**This Application is developed using Springboot**
+
 **This application lists total covid cases reported as of today around the globe. It also shows new cases reported since the previous day.**
 
 ![Screenshot (1002)](https://user-images.githubusercontent.com/47707762/126807545-53ec025e-0b50-4576-a054-187a29868dfc.png)
